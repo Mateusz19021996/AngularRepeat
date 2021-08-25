@@ -1,0 +1,39 @@
+{
+    "tasks": [
+      {
+        "id": 1,
+        "name": "Mariusz",
+        "surname": "Lajs",
+        "age": 25,
+        "isSick": true
+      },
+      {
+        "id": 2,
+        "name": "Agnieszka",
+        "surname": "Cygaro",
+        "age": 25,
+        "isSick": false
+      },
+      {
+        "id": 3,
+        "name": "Tomek",
+        "surname": "Rosicky",
+        "age": 25,
+        "isSick": true
+      },
+      {
+        "id": 4,
+        "name": "Robert",
+        "surname": "Wieckiewicz",
+        "age": 60,
+        "isSick": false
+      },
+      {
+        "id": 5,
+        "name": "Renata",
+        "surname": "Szisza",
+        "age": 66,
+        "isSick": false
+      }            
+    ]
+  }
